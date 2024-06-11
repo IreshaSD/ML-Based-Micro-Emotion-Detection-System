@@ -1,0 +1,21 @@
+Subject,Filename,OnsetFrame,ApexFrame,OffsetFrame,Estimated Emotion
+sub01,EP02_01f,46,59,86,happiness
+sub01,EP04_04,23,49,66,others
+sub01,EP19_03f,81,96,161,others
+sub01,EP19_05f,396,416,446,disgust
+sub01,EP19_06f,36,71,161,disgust
+sub02,EP01_11f,46,91,96,repression
+sub02,EP02_04f,31,79,141,repression
+sub02,EP03_02f,16,81,136,repression
+sub02,EP06_01f,56,121,155,repression
+sub02,EP06_02f,36,64,111,repression
+sub02,EP08_04,16,69,106,others
+sub02,EP09_01,26,56,125,happiness
+sub02,EP09_06f,11,49,151,others
+sub02,EP09_10,26,36,66,others
+sub02,EP11_01,16,69,106,surprise
+sub02,EP13_04,21,51,76,surprise
+sub02,EP14_01,81,114,126,surprise
+sub02,EP15_04,26,66,96,others
+sub03,EP01_2,51,69,91,surprise
+sub03,EP07_03,16,46,76,others
